@@ -12,7 +12,8 @@ Next.js <br>
 FaunaDB <br>
 Stripe <br>
 Prismic CMS <br>
-Axios
+Axios <br>
+Sass
 
 <h2>🚀 Utilização do projeto</h2>
  <strong>Clone o repositório</strong> <br>
